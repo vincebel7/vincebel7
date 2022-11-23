@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vincebel7
-- 🌐 I'm a network engineer by day
-- 👀 I’m interested in DevOps and IoT
+- 🌐 I'm a research engineer by day in the connected and automated vehicle field
+- 👀 My interests are in communications, IoT, and Linux
 - 🌱 I’m currently learning Docker and Arduino
 - 💞️ I’m looking to collaborate on any small open-source projects :)
 - 📫 How to reach me: vince@vincebel.tech
