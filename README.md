@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vincebel7
 - 🌐 I'm a research engineer by day, in the autonomous vehicle field
-- 👀 My interests are in networking+communications, IoT, homelabbing, games, and Linux
+- 👀 My interests are in networking+communications, IoT, homelabbing, Linux, and robotics
 - 🌱 I’m currently learning about storage and AI
 - 💞️ I’m looking for ways to contribute to any small open-source projects :)
 - 📫 How to reach me: vinceb7@proton.me
