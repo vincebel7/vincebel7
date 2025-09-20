@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vincebel7
 - 🌐 I'm a research engineer by day, in the autonomous vehicle field
 - 👀 My interests are in networking+communications, IoT, homelabbing, Linux, and robotics
-- 🌱 I’m currently learning about storage and AI
+- 🌱 I’m currently learning about AI and weather data
+- 🔨 My current main hobby projects are [ltdnet](https://github.com/vincebel7/ltdnet) and [temperature-data-collector](https://github.com/vincebel7/temperature-data-collector)
 - 💞️ I’m looking for ways to contribute to any small open-source projects :)
 - 📫 How to reach me: vinceb7@proton.me
 
